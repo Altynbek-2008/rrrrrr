@@ -1,0 +1,35 @@
+body{
+    overflow-x: hidden;
+
+}
+.myb{
+    width: 770px;
+   object-fit: cover;
+   
+}
+.page{
+    height: 2000px;
+    
+}
+.first{
+    width: 540px;
+}
+.two{
+    width: 540px;
+}
+.third{
+    width: 530px;
+    margin-top: -170px;  
+}
+.four {
+    width: 530px;
+}
+.card{
+    margin-bottom: 30px;
+
+    
+}
+
+.tyn{
+    scrollbar-width: none;
+}
